@@ -14,6 +14,9 @@ public class RotaApplication {
 	public static void main(String[] args) {
 		//SpringApplication.run(RotaApplication.class, args);
 
+
+
+
 		ApplicationContext context = SpringApplication.run(RotaApplication.class, args);
 
 		MainController bean = context.getBean(MainController.class);

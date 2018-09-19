@@ -1,5 +1,6 @@
 package com.manos.rota.domain;
 
+import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.HashMap;
 import java.util.Map;
